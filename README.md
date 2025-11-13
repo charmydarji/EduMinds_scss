@@ -1,1 +1,1 @@
-# WebD_Assignment6
+# EduMinds_SCSS
